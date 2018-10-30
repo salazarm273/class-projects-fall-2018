@@ -3,7 +3,7 @@
     <div class="display-3">
       <img alt="Vue logo" src="./assets/logo.png" id="logo">
       What do you Meme
-      </div>  
+    </div>
     <Nav />
     <router-view/>
   </div>
@@ -11,7 +11,7 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
-#logo { height: 50 px;}
+#logo { height: 50px;}
 </style>
 
 <script>
